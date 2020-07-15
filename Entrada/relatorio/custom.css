@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(94, 93, 93);
+}
+.centerBlock {
+    position: relative !important;
+    left: 50% !important;
+    transform: translateX(-64%)
+  }
